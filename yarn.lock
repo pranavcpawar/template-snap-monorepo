@@ -2993,7 +2993,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-cli@npm:^6.2.0":
+"@metamask/snaps-cli@npm:^6.2.1":
   version: 6.2.1
   resolution: "@metamask/snaps-cli@npm:6.2.1"
   dependencies:
@@ -3192,7 +3192,7 @@ __metadata:
     "@metamask/providers": ^16.0.0
     "@metamask/rpc-errors": ^6.2.1
     "@metamask/utils": ^8.3.0
-    fast-xml-parser: ^4.3.4
+    fast-xml-parser: ^4.4.1
     superstruct: ^1.0.3
   checksum: a95f10403b50be7b6b35b49eef3724eabb8ef0763db6434e6c77a6d56fb18deab928764dee2738ee6428e77ea582b3dd71e5cbdb19dfb37389dc4c6d34294891
   languageName: node
@@ -3232,7 +3232,7 @@ __metadata:
     cron-parser: ^4.5.0
     fast-deep-equal: ^3.1.3
     fast-json-stable-stringify: ^2.1.0
-    fast-xml-parser: ^4.3.4
+    fast-xml-parser: ^4.4.1
     marked: ^12.0.1
     rfdc: ^1.3.0
     semver: ^7.5.4
@@ -9982,14 +9982,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-xml-parser@npm:^4.3.4":
-  version: 4.4.0
-  resolution: "fast-xml-parser@npm:4.4.0"
+"fast-xml-parser@npm:^4.4.1":
+  version: 4.4.1
+  resolution: "fast-xml-parser@npm:4.4.1"
   dependencies:
     strnum: ^1.0.5
   bin:
     fxparser: src/cli/cli.js
-  checksum: ad33a4b5165a0ffcb6e17ae78825bd4619a8298844a8a8408f2ea141a0d2d9439d18865dc5254162f09fe54d510ff18e5d5c0a190869cab21fc745ee66be816b
+  checksum: f440c01cd141b98789ae777503bcb6727393296094cc82924ae9f88a5b971baa4eec7e65306c7e07746534caa661fc83694ff437d9012dc84dee39dfbfaab947
   languageName: node
   linkType: hard
 
@@ -17196,7 +17196,7 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/snaps-cli": ^6.2.0
+    "@metamask/snaps-cli": ^6.2.1
     "@metamask/snaps-jest": ^8.2.0
     "@metamask/snaps-sdk": ^6.1.1
     "@typescript-eslint/eslint-plugin": ^5.42.1
