@@ -3152,7 +3152,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-sdk@npm:^6.0.0, @metamask/snaps-sdk@npm:^6.1.0, @metamask/snaps-sdk@npm:^6.1.1, @metamask/snaps-sdk@npm:^6.2.0":
+"@metamask/snaps-sdk@npm:^6.0.0, @metamask/snaps-sdk@npm:^6.1.0, @metamask/snaps-sdk@npm:^6.2.0":
   version: 6.2.0
   resolution: "@metamask/snaps-sdk@npm:6.2.0"
   dependencies:
@@ -17173,7 +17173,7 @@ __metadata:
     "@metamask/eslint-config-typescript": ^12.1.0
     "@metamask/snaps-cli": ^6.2.1
     "@metamask/snaps-jest": ^8.2.0
-    "@metamask/snaps-sdk": ^6.1.1
+    "@metamask/snaps-sdk": ^6.2.0
     "@typescript-eslint/eslint-plugin": ^5.42.1
     "@typescript-eslint/parser": ^5.42.1
     buffer: ^6.0.3
